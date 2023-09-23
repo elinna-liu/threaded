@@ -33,6 +33,8 @@
          <img src="https://ibb.co/hM3SBds"/>
         <figcaption>DIY Halloween costumes</figcaption>
       </figure>
-    
+ <a href="https://ibb.co/mGcSJn1"><img src="https://i.ibb.co/L8ZvSTb/mood-board.jpg" alt="mood-board" border="0"></a>
+<a href="https://ibb.co/mXfmfjW"><img src="https://i.ibb.co/3Mgwg3Z/tote-bags.jpg" alt="tote-bags" border="0"></a>
+<a href="https://ibb.co/hM3SBds"><img src="https://i.ibb.co/vB0S3d1/halloween.jpg" alt="halloween" border="0"></a>
   </body>
 </html>
