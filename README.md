@@ -20,21 +20,9 @@
           <li>And for the first time ever, fashion newsletters/magazines!</li>
         </ul>
         <p>And of course&#44; we will be having general meetings every month to provide updates on things we have planned! The best part is&#44; we provide free snacks such as cookies and drinks at our meetings, so make sure to drop by if interested!</p>
-      <h2>Pictures from past events</h2>
-      <figure>
-         <img src="https://ibb.co/mGcSJn1"/>
-        <figcaption>Mood board activity</figcaption>
-      </figure>
-      <figure>
-         <img src="https://ibb.co/mXfmfjW"/>
-        <figcaption>Tote bag painting</figcaption>
-      </figure>
-      <figure>
-         <img src="https://ibb.co/hM3SBds"/>
-        <figcaption>DIY Halloween costumes</figcaption>
-      </figure>
- <a href="https://ibb.co/mGcSJn1"><img src="https://i.ibb.co/L8ZvSTb/mood-board.jpg" alt="mood-board" border="0"></a>
-<a href="https://ibb.co/mXfmfjW"><img src="https://i.ibb.co/3Mgwg3Z/tote-bags.jpg" alt="tote-bags" border="0"></a>
-<a href="https://ibb.co/hM3SBds"><img src="https://i.ibb.co/vB0S3d1/halloween.jpg" alt="halloween" border="0"></a>
+        <img src="https://live.staticflickr.com/2369/1973362201_2b0aeba0de_b.jpg"/>
+        <img src="https://live.staticflickr.com/5598/15412927396_a8246164c8_b.jpg"/>
+      <h1><a href="https://l.instagram.com/?u=http%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScnb2rMWDGn6926V8aJJ4LS1bsbjkR0aR6qoeSYxgqirHCoNg%2Fviewform&e=AT0hFKr1ToZdX-bZOD_O82mblbB_lK38vnm2bcCiE7ZY199WHB76zW0jQ0QPg6AOCT5u0YWZZrBkIDXeY3TaRFs8ZHlzL5RP4njHwg" target= "_blank">Click here to join Threaded!</a></h1>
+      <h2>Don't forget to follow us on Instagram<a href="https://www.instagram.com/whsthreaded/" target="_blank">here</a>!</h2>
   </body>
 </html>
