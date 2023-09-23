@@ -23,6 +23,6 @@
         <img src="https://live.staticflickr.com/2369/1973362201_2b0aeba0de_b.jpg"/>
         <img src="https://live.staticflickr.com/5598/15412927396_a8246164c8_b.jpg"/>
       <h1><a href="https://docs.google.com/forms/d/1E6jLsjAeduYJEEpK7qX0pO9DcXpvvxw_TuMxV9sJNJ4/viewform?edit_requested=true" target= "_blank">Click here to join Threaded!</a></h1>
-      <h2>Don't forget to follow us on Instagram <a href="https://www.instagram.com/whsthreaded/" target="_blank">here</a>!</h2>
+      <h2>Don't forget to follow us on Instagram<a href="https://www.instagram.com/whsthreaded/" target="_blank">&nbsp;here</a>!</h2>
   </body>
 </html>
