@@ -1,6 +1,3 @@
-# Threaded
-Fashion and sustainability club at Whitney High School
-<!DOCTYPE html>
 <html>
   <head>
     <title> Welcome to Threaded's club page! </title>
