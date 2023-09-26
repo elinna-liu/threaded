@@ -20,12 +20,11 @@
           <li>And for the first time ever, fashion newsletters/magazines!</li>
         </ul>
         <p>And of course&#44; we will be having general meetings every month to provide updates on things we have planned! The best part is&#44; we provide free snacks such as cookies and drinks at our meetings, so make sure to drop by if interested!</p>
-      <br>
         <p>We would love to know what other activities you would like to see! All suggestions are welcome. Please contact us through our Instagram (linked at the bottom of the page).</p>
     <h2>Pictures from past activities!</h2>
       <figure>
         <img src="mood.PNG"/>
-        <figcaption>Mood board making</figcaption>
+        <figcaption>Mood board making!</figcaption>
       </figure>
       <figure>
         <img src="totes.PNG"/>
