@@ -26,3 +26,6 @@
       <h2>Don't forget to follow us on Instagram&nbsp;<a href="https://www.instagram.com/whsthreaded/" target="_blank">here</a>&nbsp;!</h2>
   </body>
 </html>
+<img src="mood.PNG"/>
+<img src="totes.PNG/>
+<img src="halloween.PNG"/>
