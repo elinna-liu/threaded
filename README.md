@@ -20,12 +20,20 @@
           <li>And for the first time ever, fashion newsletters/magazines!</li>
         </ul>
         <p>And of course&#44; we will be having general meetings every month to provide updates on things we have planned! The best part is&#44; we provide free snacks such as cookies and drinks at our meetings, so make sure to drop by if interested!</p>
-        <img src="https://live.staticflickr.com/2369/1973362201_2b0aeba0de_b.jpg"/>
-        <img src="https://live.staticflickr.com/5598/15412927396_a8246164c8_b.jpg"/>
+    <h2>Pictures from past activities!</h2>
+      <figure>
+        <img src="mood.PNG"/>
+        <figcaption>Mood board making</figcaption>
+      </figure>
+      <figure>
+        <img src="totes.PNG/>
+        <figcaption>Tote bag painting!</figcaption>
+      </figure>
+      <figure>
+        <img src="halloween.PNG"/>
+        <figcaption>DIY Halloween costumes!</figcaption>
+      </figure>
       <h1><a href="https://docs.google.com/forms/d/1E6jLsjAeduYJEEpK7qX0pO9DcXpvvxw_TuMxV9sJNJ4/viewform?edit_requested=true" target= "_blank">Click here to join Threaded!</a></h1>
-      <h2>Don't forget to follow us on Instagram&nbsp;<a href="https://www.instagram.com/whsthreaded/" target="_blank">here</a>&nbsp;!</h2>
+      <h2>Don't forget to follow us on Instagram&nbsp;<a href="https://www.instagram.com/whsthreaded/" target="_blank">here</a>&nbsp;!&#128151;</h2>
   </body>
 </html>
-<img src="mood.PNG"/>
-<img src="totes.PNG/>
-<img src="halloween.PNG"/>
